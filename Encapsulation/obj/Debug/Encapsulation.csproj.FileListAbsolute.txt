@@ -1,0 +1,7 @@
+E:\Decoders\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+E:\Decoders\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+E:\Decoders\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+E:\Decoders\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+E:\Decoders\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+E:\Decoders\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+E:\Decoders\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
